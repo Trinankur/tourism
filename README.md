@@ -1,0 +1,2 @@
+# tourism
+A static page
